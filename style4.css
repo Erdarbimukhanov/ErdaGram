@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+    position: absolute;
+    top: 2%;
+    left: 11%;
+}
+.home{
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+    position: absolute;
+    top: 20%;
+    left: 11%;
+}
+.search{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+    position: absolute;
+    top: 30%;
+    left: 11%;
+}
+.explore{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+    position: absolute;
+    top: 40%;
+    left: 11%;
+}
+.reels{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 11%;
+}
+.messages{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+    position: absolute;
+    top: 60%;
+    left: 11%;
+}
+.notifications{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+    position: absolute;
+    top: 70%;
+    left: 11%;
+}
+.line{
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    background-color: #403d39;
+    left: 99%;
+}
+.section{
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 2%;
+}
+.avabox{
+    display: flex;
+}
+.ava{
+    margin-bottom: 4%;
+    width: 50px;
+    height: 50px;
+    border-radius: 60%;
+}
+.nick{
+    font-family: "Freeman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    margin-left: 3%;
+    margin-top: 1%;
+}
+.post{
+    width: 750px;
+    height: 450px;
+    border-radius: 2%;
+}
+.like{
+    display: flex;
+    width: 35px;
+    height: 35px;
+}
+.likebox{
+    display: flex;
+    margin-top: 12px;
+}
+.time{
+    font-size: 19px;
+    margin-left: 11px;
+    margin-top: 12px;
+}
+.counter{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 22px;
+    margin-top: 2px;
+    margin-left: 16px;
+    display: flex;
+}
+p{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 22px;
+    margin-top: 2px;
+    margin-left: 5px; 
+    display: flex;
+}
+.comment{
+    width: 35px;
+    height: 35px;
+    margin-left: 79%;
+}
+.description{
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 22px;
+    margin-left: 19px;
+}
+.border{
+    border: 1px solid #adb5bd;
+    width: 750px;
+    height: 90%;
+    border-radius: 2%;
+}
+.line2{
+    margin-top: 50px;
+    height: 1px;
+    width: 100%;
+    background-color: #403d39;
+}
+.account{
+    position: fixed;
+    height: 100%;
+    width: 25%;
+}
+.firstpost{
+    margin-top: 20px;
+}
